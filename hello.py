@@ -1,1 +1,1 @@
-print("hello Jolly welcome to python-AI using VS code")
+print("GIT CLI FIrst Time")
